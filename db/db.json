@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Test",
+      "age": 12
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "brand": "Lenovo",
+      "model": "H1M1"
+    },
+    {
+      "id": 2,
+      "brand": "HP",
+      "model": "Pavilion 34"
+    },
+    {
+      "brand": "test1",
+      "model": "123prueba",
+      "id": 3
+    },
+    {
+      "brand": "pruea234",
+      "model": "sdsd",
+      "id": 4
+    },
+    {
+      "brand": "aaa",
+      "model": "111",
+      "id": 5
+    }
+  ]
+}
